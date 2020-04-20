@@ -1,8 +1,9 @@
-title: Reflex
-baseURL: /
+---
+title: Roshan Ghale
+baseURL: "/"
 params:
   none: ''
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
