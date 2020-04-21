@@ -20,8 +20,10 @@ sections:
     url: "/generic"
     is_scrolly: false
     is_primary: false
-  title: Ipsum malesuada
-  subtitle: I am a Software Developer
+  title: Who Am I
+  subtitle: I am a passionate jr. software engineer. Eager to learn and add value
+    to the business using the knowledge that I have gathered. I am skilled in full
+    stack web development with Javascript, Node.Js,React.Js and MySQL.
   symbol_display:
   - title: Lorem
     icon: fa-code
