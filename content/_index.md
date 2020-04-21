@@ -11,7 +11,7 @@ sections:
     is_scrolly: false
     is_primary: false
   title: Reflex
-  img_path: "/images/hero.jpg"
+  img_path: "/images/img.jpg"
   component: intro.html
 - type: features
   template: features
