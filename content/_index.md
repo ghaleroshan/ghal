@@ -6,11 +6,11 @@ sections:
   content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
     rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
   actions:
-  - label: Get Started
+  - label: Contact Me
     url: "/generic"
     is_scrolly: false
     is_primary: false
-  title: Reflex
+  title: Roshan Ghale
   img_path: "/images/img.jpg"
   component: intro.html
 - type: features
