@@ -3,10 +3,7 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "    I’m Roshan, a passionate jr. software engineer. \n\n    Eager to learn
-    and add value to the business using \n\n    the knowledge that I have gathered.
-    I am skilled in \n\n    full stack web development with\n\n    Javascript, Node.Js,React.Js
-    and MySQL."
+  content: "> ##### I am a Software Developer"
   actions:
   - label: Contact Me
     url: "/generic"
