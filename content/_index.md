@@ -3,8 +3,9 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
-    rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
+  content: I’m Roshan, a passionate jr. software engineer. Eager to learn and add
+    value to the business using the knowledge that I have gathered. I am skilled in
+    full stack web development with Javascript, Node.Js,React.Js and MySQL.
   actions:
   - label: Contact Me
     url: "/generic"
@@ -15,9 +16,7 @@ sections:
   component: intro.html
 - type: features
   template: features
-  content: I’m Roshan, a passionate jr. software engineer. Eager to learn and add
-    value to the business using the knowledge that I have gathered. I am skilled in
-    full stack web development with Javascript, Node.Js,React.Js and MySQL.
+  content: ''
   actions:
   - label: Details
     url: "/generic"
