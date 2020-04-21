@@ -15,19 +15,16 @@ sections:
   component: intro.html
 - type: features
   template: features
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-    facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-    per inceptos himenaeos malesuada fames ac turpis egestas. In non lorem amet. Duis
-    dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-    conubia nostra, per inceptos himenaeos. Etiam tristique eu nibh.
+  content: I’m Roshan, a passionate jr. software engineer. Eager to learn and add
+    value to the business using the knowledge that I have gathered. I am skilled in
+    full stack web development with Javascript, Node.Js,React.Js and MySQL.
   actions:
   - label: Details
     url: "/generic"
     is_scrolly: false
     is_primary: false
   title: Ipsum malesuada
-  subtitle: "Rutrum facilisis. Class aptent taciti sociosqu  \nlitora torquent et
-    conubia etiam nostra."
+  subtitle: I am a Software Developer
   symbol_display:
   - title: Lorem
     icon: fa-code
