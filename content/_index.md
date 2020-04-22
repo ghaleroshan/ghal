@@ -33,8 +33,8 @@ sections:
     icon: fa-code
   - title: Photgraphy
     icon: fa-camera-retro
-  - title: Tempus
-    icon: fa-briefcase
+  - title: Repeat
+    icon: fa-redo
   component: features.html
 - type: spotlight
   template: spotlight
