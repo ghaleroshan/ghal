@@ -29,7 +29,7 @@ sections:
     icon: fa-utensils
   - title: Sleep
     icon: fa-bed
-  - title: Lorem
+  - title: Code
     icon: fa-code
   - title: Feugiat
     icon: fa-camera-retro
