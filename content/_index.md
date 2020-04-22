@@ -31,7 +31,7 @@ sections:
     icon: fa-bed
   - title: Code
     icon: fa-code
-  - title: Feugiat
+  - title: Photgraphy
     icon: fa-camera-retro
   - title: Tempus
     icon: fa-briefcase
