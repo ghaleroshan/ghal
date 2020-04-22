@@ -48,9 +48,9 @@ sections:
     url: "/generic"
     is_scrolly: false
     is_primary: false
-  title: Duis torquent
-  subtitle: "Rutrum facilisis. Class aptent taciti sociosqu  \nlitora torquent et
-    conubia etiam nostra."
+  title: Career Hightlights
+  subtitle: Over the years I have worked on my pet projects and as well as worked
+    as a part time full stack developer for Introcept
   component: spotlight.html
 - type: mission
   template: mission
