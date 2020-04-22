@@ -25,12 +25,12 @@ sections:
     to the business using the knowledge that I have gathered. I am skilled in full
     stack web development with Javascript, Node.Js,React.Js and MySQL.
   symbol_display:
-  - title: Lorem
-    icon: fa-code
-  - title: Ipsum
-    icon: fa-cog
+  - title: Eat
+    icon: fa-utensils
   - title: Dolor
     icon: fa-diamond
+  - title: Lorem
+    icon: fa-code
   - title: Feugiat
     icon: fa-camera-retro
   - title: Tempus
