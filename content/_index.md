@@ -27,8 +27,8 @@ sections:
   symbol_display:
   - title: Eat
     icon: fa-utensils
-  - title: Dolor
-    icon: fa-diamond
+  - title: Sleep
+    icon: fa-bed
   - title: Lorem
     icon: fa-code
   - title: Feugiat
