@@ -43,11 +43,7 @@ sections:
     per inceptos himenaeos malesuada fames ac turpis egestas. In non lorem amet. Duis
     dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
     conubia nostra, per inceptos himenaeos. Etiam tristique eu nibh.
-  actions:
-  - label: Details
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
+  actions: []
   title: Career Hightlights
   subtitle: Over the years I have worked on my pet projects and as well as worked
     as a part time full stack developer for Introcept
