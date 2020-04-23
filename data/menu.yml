@@ -1,6 +1,2 @@
 ---
-actions:
-- label: Learn More
-  url: "/generic"
-  is_scrolly: true
-  is_primary: true
+actions: []
