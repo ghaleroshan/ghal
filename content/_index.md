@@ -34,7 +34,7 @@ sections:
   - title: Photgraphy
     icon: fa-camera-retro
   - title: Repeat
-    icon: fa-redo
+    icon: fa-redo-alt
   component: features.html
 - type: spotlight
   template: spotlight
