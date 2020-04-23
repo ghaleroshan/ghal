@@ -5,7 +5,7 @@ excerpt: Part Time at Introcept as FrontEnd developer. My first professional exp
   Git, Ora, Figma as a workflow tools making it easier to communicate and understand
   the tasks
 img_path: images/pic04.jpg
-post_button_label: ''
+post_button_label: Show More
 date: 2020-04-22T14:00:00+00:00
 layout: page
 subtitle: ''
