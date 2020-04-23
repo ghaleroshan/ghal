@@ -1,5 +1,5 @@
 +++
-img_path = "/images/hero.jpg"
+img_path = ""
 layout = "page"
 subtitle = ""
 title = "Contact Me"
