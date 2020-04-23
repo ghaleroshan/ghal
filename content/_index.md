@@ -53,11 +53,7 @@ sections:
   content: "Aptent taciti sociosqu litora torquent et conubia sed etiam.  \nPhasellus
     convallis elit id ullamcorper pulvinar. Duis aliquam  \nturpis mauris, ultricies
     erat malesuada quis."
-  actions:
-  - label: Get Started
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
+  actions: []
   title: Amet ullamcorper
   component: mission.html
 layout: home
