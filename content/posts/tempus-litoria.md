@@ -1,7 +1,8 @@
 ---
 title: Introcept
-excerpt: "\n* Using React JS, Styled Components, SCSS as a major stack. \n* Learning
-  TypeScript for backend\n* Using Docker"
+excerpt: Working as a Part-Time full stack software developer specializing on the
+  design in the frontend while supporting on creating end-points at the backend using
+  TypeScript.
 img_path: "/images/hero.jpg"
 post_button_label: Show More
 date: 2020-04-22T14:00:00+00:00
