@@ -1,2 +1,4 @@
 ---
-actions: []
+actions:
+- label: Contact Me
+  url: "/contact-me"
