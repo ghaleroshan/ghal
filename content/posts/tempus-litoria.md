@@ -1,8 +1,6 @@
 ---
 title: Introcept
-excerpt: |2-
-
-  Using React JS, Styled Components, SCSS as a major stack.
+excerpt: "\nUsing React JS, Styled Components, SCSS as a major stack. "
 img_path: images/pic04.jpg
 post_button_label: Show More
 date: 2020-04-22T14:00:00+00:00
