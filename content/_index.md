@@ -29,8 +29,8 @@ sections:
     icon: fa-camera-retro
   - title: Sleep
     icon: fa-bed
-  - title: Repeat
-    icon: fa-feather
+  - title: Redo
+    icon: fa-redo
   component: features.html
 - type: spotlight
   template: spotlight
