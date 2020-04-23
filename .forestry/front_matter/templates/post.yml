@@ -45,4 +45,5 @@ fields:
     required: true
 pages:
 - content/posts/aliquam-veroeros.md
+- content/posts/skills.md
 - content/posts/tempus-litoria.md
