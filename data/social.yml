@@ -15,3 +15,6 @@ social_links:
 - title: GitHub
   icon: fa-github
   link_url: https://github.com/ghaleroshan
+menu:
+  main:
+    weight: 2
