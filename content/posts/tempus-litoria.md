@@ -1,6 +1,7 @@
 ---
 title: Introcept
-excerpt: "\nUsing React JS, Styled Components, SCSS as a major stack. "
+excerpt: "\n* Using React JS, Styled Components, SCSS as a major stack. \n* Learning
+  TypeScript for backend\n* Using Docker"
 img_path: images/pic04.jpg
 post_button_label: Show More
 date: 2020-04-22T14:00:00+00:00
