@@ -21,16 +21,12 @@ sections:
     to the business using the knowledge that I have gathered. I am skilled in full
     stack web development with Javascript, Node.Js,React.Js and MySQL.
   symbol_display:
-  - title: Eat
-    icon: fa-utensils
   - title: Code
     icon: fa-code
   - title: Photgraphy
     icon: fa-camera-retro
   - title: Sleep
     icon: fa-bed
-  - title: Repeat
-    icon: fa-redo-alt
   component: features.html
 - type: spotlight
   template: spotlight
