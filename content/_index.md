@@ -38,11 +38,7 @@ sections:
   component: features.html
 - type: spotlight
   template: spotlight
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-    facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-    per inceptos himenaeos malesuada fames ac turpis egestas. In non lorem amet. Duis
-    dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-    conubia nostra, per inceptos himenaeos. Etiam tristique eu nibh.
+  content: ''
   actions: []
   title: Career Hightlights
   subtitle: Over the years I have worked on my pet projects and as well as worked
