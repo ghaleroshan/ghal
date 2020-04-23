@@ -1,4 +1,10 @@
 ---
 label: Contact Me
 hide_body: true
-fields: []
+fields:
+- name: Name
+  type: include
+  config: {}
+  template: contact-me
+  label: Name
+  hidden: false
