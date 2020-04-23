@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "##### I am a Software Developer"
+  content: "> ##### I am a Software Developer"
   actions:
   - label: Contact Me
     url: "/contact-me"
