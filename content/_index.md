@@ -24,7 +24,7 @@ sections:
   - title: Eat
     icon: fa-utensils
   - title: Code
-    icon: fa-utensils
+    icon: fa-code
   - title: Photgraphy
     icon: fa-camera-retro
   - title: Sleep
