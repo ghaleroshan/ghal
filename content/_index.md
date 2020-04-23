@@ -50,11 +50,9 @@ sections:
   component: spotlight.html
 - type: mission
   template: mission
-  content: "Aptent taciti sociosqu litora torquent et conubia sed etiam.  \nPhasellus
-    convallis elit id ullamcorper pulvinar. Duis aliquam  \nturpis mauris, ultricies
-    erat malesuada quis."
+  content: "    “Live with no excuses and travel with no regrets” ~ Oscar Wilde."
   actions: []
-  title: Amet ullamcorper
+  title: Journey of Life
   component: mission.html
 layout: home
 menu:
