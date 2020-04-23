@@ -26,7 +26,7 @@ sections:
     stack web development with Javascript, Node.Js,React.Js and MySQL.
   symbol_display:
   - title: Eat
-    icon: fa-utensil-spoon
+    icon: fa-utensils
   - title: Code
     icon: fa-code
   - title: Photgraphy
