@@ -6,7 +6,7 @@ sections:
   content: "##### I am a Software Developer"
   actions:
   - label: Contact Me
-    url: "/generic"
+    url: "/Contact Me"
     is_scrolly: false
     is_primary: false
   title: Roshan Ghale
