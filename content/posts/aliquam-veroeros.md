@@ -8,7 +8,7 @@ layout: page
 subtitle: ''
 
 ---
-> **RESPOS**
+**RESPOS**
 
 * Developed a restaurant point of sale (​ResPOS​) web application. 
 * Used Node.Js with Express.js framework for the backend, React.js for frontend and MySQL database. 
