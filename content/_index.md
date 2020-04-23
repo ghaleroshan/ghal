@@ -15,11 +15,7 @@ sections:
 - type: features
   template: features
   content: ''
-  actions:
-  - label: Details
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
+  actions: []
   title: Who Am I
   subtitle: I am a passionate jr. software engineer. Eager to learn and add value
     to the business using the knowledge that I have gathered. I am skilled in full
