@@ -8,6 +8,8 @@ layout: page
 subtitle: ''
 
 ---
+> **RESPOS**
+
 * Developed a restaurant point of sale (​ResPOS​) web application. 
 * Used Node.Js with Express.js framework for the backend, React.js for frontend and MySQL database. 
 * Wrote Unit tests using Mocha and native Node.js Assert, also used Proxyquire and Nock to mock requires and network calls respectively.
