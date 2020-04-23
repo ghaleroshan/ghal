@@ -23,8 +23,6 @@ sections:
   symbol_display:
   - title: Eat
     icon: fa-utensils
-  - title: Eat
-    icon: fa-cookie-bite
   - title: Code
     icon: fa-code
   - title: Photgraphy
