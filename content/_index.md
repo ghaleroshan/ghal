@@ -27,12 +27,12 @@ sections:
   symbol_display:
   - title: Eat
     icon: fa-utensil-spoon
-  - title: Sleep
-    icon: fa-bed
   - title: Code
     icon: fa-code
   - title: Photgraphy
     icon: fa-camera-retro
+  - title: Sleep
+    icon: fa-bed
   - title: Repeat
     icon: fa-redo-alt
   component: features.html
