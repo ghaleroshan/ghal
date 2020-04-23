@@ -6,9 +6,9 @@ sections:
   content: "##### I am a Software Developer"
   actions:
   - label: Contact Me
-    url: "/Contact Me"
-    is_scrolly: false
-    is_primary: false
+    url: "/"
+    is_scrolly: true
+    is_primary: true
   title: Roshan Ghale
   img_path: "/images/img.jpg"
   component: intro.html
