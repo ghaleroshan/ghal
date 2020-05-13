@@ -17,9 +17,9 @@ sections:
   content: ''
   actions: []
   title: Who Am I
-  subtitle: I am a passionate jr. software engineer. Eager to learn and add value
-    to the business using the knowledge that I have gathered. I am skilled in full
-    stack web development with Javascript, Node.Js,React.Js and MySQL.
+  subtitle: I am a passionate software engineer. Eager to learn and add value to the
+    business using the knowledge that I have gathered. I am skilled in full stack
+    web development with Javascript, Node.Js,React.Js and MySQL.
   symbol_display:
   - title: Code
     icon: fa-code
