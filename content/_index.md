@@ -32,7 +32,7 @@ sections:
   template: spotlight
   content: ''
   actions: []
-  title: Career Hightlights
+  title: Career Highlights
   subtitle: Over the years I have worked on my pet projects and as well as worked
     as a part time full stack developer for Introcept
   component: spotlight.html
